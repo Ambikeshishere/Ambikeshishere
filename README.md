@@ -1,90 +1,86 @@
-# Ambikesh Srivastava
+<h1 align="center">Ambikesh Srivastava</h1>
+<h3 align="center">Data Analyst @ PhysicsWallah | SQL • Python • Data Analytics • Automation</h3>
 
-**Data Analyst @ PhysicsWallah | SQL • Python • Data Analytics • Automation**
-
-I am a **Data Analyst at PhysicsWallah** with professional experience in **data analysis, automation, and business support systems**. I specialize in converting complex datasets into **actionable insights** that help teams make better, faster decisions.
-
-I bring a strong mix of **technical skills, analytical thinking, and real-world project experience**, with hands-on exposure across analytics, AI, and web technologies.
-
----
-
-## 🔍 What I Do (Recruiter Summary)
-
-* Analyze and clean large datasets for business reporting
-* Build data-driven insights using **SQL and Python**
-* Support business and IT teams with structured analytics
-* Work on automation and logic-based problem solving
-* Continuously upskill in **AI, Machine Learning, and Gen AI**
+<p align="center">
+📍 Pune, India &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/ambikesh-srivastava-2416992a0">LinkedIn</a> &nbsp;|&nbsp;
+📧 abhay2004raj15@gmail.com
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 👋 About Me
+
+I am a **Data Analyst at PhysicsWallah** with hands-on experience in **SQL, Python, data analytics, and automation**.
+I focus on turning raw data into **clear insights that help business and operations teams make decisions**.
+
+I learn by building real solutions, not just theory, and I am actively growing in **AI, Machine Learning, and GenAI**.
+
+---
+
+## 🚀 What I Bring
+
+✔ Strong analytical & logical problem-solving
+✔ Practical experience with real business data
+✔ Ability to automate repetitive reporting
+✔ Tech + business understanding
+
+---
+
+## 🛠 Tech Stack
 
 **Data & Analytics**
 
-* SQL, Python, R
-* Data Loading, Cleaning & Reporting
-* Business & IT Data Analysis
+* SQL | Python | R
+* Data Cleaning & Reporting
+* Business & IT Analysis
 
 **Programming & Development**
 
-* Python, JavaScript, C, C++
+* Python | JavaScript | C | C++
 * Frontend Web Development
 
-**Emerging Technologies**
+**Emerging Tech**
 
 * Generative AI
 * Machine Learning (Foundations)
-* Cybersecurity (Fundamentals)
+* Cybersecurity (Basics)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### **Data Analyst — PhysicsWallah**
+**Data Analyst — PhysicsWallah**
+*July 2025 – Present | Pune*
 
-*July 2025 – Present | Pune, India*
+* Data analysis and structured reporting
+* Data loading, validation, and insights
+* Supporting internal business teams
 
-* Perform data analysis and reporting to support internal teams
-* Manage structured data loading and validation processes
-* Assist in improving data accuracy and operational insights
-
-### **Freelance — AI Developer**
-
+**Freelance — AI Developer**
 *Jan 2025 – May 2025*
 
-* Developed AI-powered and automation-focused solutions
-* Implemented Python-based logic for real-world use cases
+* Built automation and AI-based solutions using Python
 
-### **Frontend Developer — GRIHANIKALA**
-
+**Frontend Developer — GRIHANIKALA**
 *Apr 2024 – Sep 2024*
 
-* Designed and developed responsive frontend interfaces
-* Collaborated on improving user experience
+* Developed responsive UI components
 
-### **Intern — IFFCO Kisan Suvidha Limited**
+---
 
-*Jul 2024 – Aug 2024*
+## 📌 Featured Projects (Pinned)
 
-* Gained hands-on exposure to IT systems and industry workflows
+👉 See below for my **data analytics & automation projects**
+Each project includes **problem → approach → result**
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech)**
-Instrumentation & Control Engineering
-Dr. A.P.J. Abdul Kalam Technical University
-*2021 – 2025*
+**B.Tech — Instrumentation & Control Engineering**
+Dr. A.P.J. Abdul Kalam Technical University (2021–2025)
 
 ---
 
-## 📫 Contact
-
-* **LinkedIn:** [https://www.linkedin.com/in/ambikesh-srivastava-2416992a0](https://www.linkedin.com/in/ambikesh-srivastava-2416992a0)
-* **Email:** [abhay2004raj15@gmail.com](mailto:abhay2004raj15@gmail.com)
-
----
-
-⭐ *Actively seeking opportunities in Data Analytics, Business Analytics, and Technology-driven roles.*
+⭐ *Open to Data Analyst / Business Analyst / Tech roles*
